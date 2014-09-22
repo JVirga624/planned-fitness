@@ -13,7 +13,7 @@ Goals
 3. Track progress with charts/graphs.
 4. Area to share workout music and playlists for others
  
-<h2>Social Context</h2>
+<h1>Social Context</h1>
 
 	In today’s day and age, convenience is the epitome in developing new products. One goal is on the developer’s mind, how can this be made better to benefit the lives of people who use it? This has been seen in ways we communicate with one another, better ways to organize ourselves, and keep track of our hectic schedules. In modern society there exist replacements for pre-existing, obsolete ways for performing certain tasks. Looking back, you can see how these improvements have made for an easier way of living. With this being said, the gym is a place where many things do not change. No, this is not leading to a device that works out for you, but rather an easier way to keep track of all your hard work. 
 	
